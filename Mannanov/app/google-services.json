@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301569418062",
+    "project_id": "mannanov-8fa70",
+    "storage_bucket": "mannanov-8fa70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301569418062:android:57a2fae2fe2e137086f41f",
+        "android_client_info": {
+          "package_name": "com.itis.mannanov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301569418062-drcfhd5l7dfj2tpd1ba6eesq8d9msksk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbCuU3wHVfW-XJEJezlw82ArZq6vP_sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301569418062-drcfhd5l7dfj2tpd1ba6eesq8d9msksk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

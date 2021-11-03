@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mannanov</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_lesson">Добавить предмет</string>
+    <string name="hours">HH</string>
+    <string name="time_division">:</string>
+    <string name="minutes">MM</string>
+    <string name="add_button">Add</string>
+
+    <string-array name="days_on_week">
+        <item />
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+</resources>
